@@ -7,6 +7,17 @@
 This is a side project from one of the TAIA study groups. 
 The purpose is to build a chatbot and interact with users to analyse and build a profitable investment for seeking alpha.
 
+### 功能範例
+
+-財報分析</br>
+![image](https://github.com/pdway53/llm-study/blob/dev/QA_1.png)
+
+-投資建議</br>
+![image](https://github.com/pdway53/llm-study/blob/dev/QA_2.png)
+
+-個股重大消息提取</br>
+![image](https://github.com/pdway53/llm-study/blob/dev/QA_3.png)
+
 # Important dependency docs/repo
 Langchain: [Doc](https://api.python.langchain.com/en/latest/langchain_api_reference.html#) | [Repo](https://github.com/langchain-ai/langchain)
 Chainlit: [Doc](https://docs.chainlit.io/get-started/overview) | [Repo](https://github.com/Chainlit/chainlit)
